@@ -3280,6 +3280,32 @@
                     }
                 }
             }
+        },
+        "dexy": {
+            "author": {
+                "Dexy": {
+                    "url": "https://github.com/DexyThePuppy"
+                }
+            },
+            "entries": {
+                "dexy.ProtoWireScroll": {
+                    "category": "Visual Tweaks",
+                    "description": "Adds customizable animated textures to ProtoFlux wires with configurable scroll speeds and animations!",
+                    "name": "ProtoWireScroll",
+                    "sourceLocation": "https://github.com/DexyThePuppy/ProtoWireScroll",
+                    "versions": {
+                        "1.0.0": {
+                            "artifacts": [
+                                {
+                                    "sha256": "198a7ca7cc338028e052e1c70ad98b42532a278c3cfe2d87f607a7d25d13e314",
+                                    "url": "https://github.com/DexyThePuppy/ProtoWireScroll/releases/download/v1.0.0/ProtoWireScroll.dll"
+                                }
+                            ],
+                            "releaseUrl": "https://github.com/DexyThePuppy/ProtoWireScroll/releases/tag/v1.0.0"
+                        }
+                    }
+                }
+            }
         }
     },
     "schemaVersion": "1.0.1"
